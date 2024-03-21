@@ -91,7 +91,7 @@
  article>h2 {
      padding-bottom: 30px;
      height: 20px;
-     text-align: center;
+     text-align: auto;
      margin:auto;
      border: auto;
  }
